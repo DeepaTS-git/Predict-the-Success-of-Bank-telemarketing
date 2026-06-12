@@ -1,7 +1,5 @@
 ## Predict the Success of Bank Telemarketing
 
-Course Component: MLP Project
-
 ## Overview:
 This academic project focuses on predicting the success of bank telemarketing campaigns, where customers are contacted via phone calls to promote a bank term deposit. 
 The objective is to build a machine learning classification model that predicts whether a customer will subscribe to the product (yes or no) based on demographic, financial, and campaign-related features.
@@ -48,9 +46,6 @@ Saved as a .csv file following the provided sample submission format
 -Pandas, NumPy
 -Matplotlib, Seaborn
 -Scikit-learn
-Project Name: MLP Project (T3 2024)
-
-**Duration:** September 2024 – December 2024
 
 Completed as part of the IIT Madras BS Degree curriculum
 Notebook was submitted privately as per academic guidelines
