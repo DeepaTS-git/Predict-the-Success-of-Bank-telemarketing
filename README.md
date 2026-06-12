@@ -1,6 +1,6 @@
-## Predict the Success of Bank Telemarketing (Academic( IIT Madras BS Degree) Machine Learning Project)
+## Predict the Success of Bank Telemarketing (Academic Machine Learning Project)
 
-Course Component: MLP Project (T3 2024)
+Course Component: MLP Project
 
 ## Overview:
 This project focuses on predicting the success of bank telemarketing campaigns, where customers are contacted via phone calls to promote a bank term deposit. 
